@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @medicateR
-- 👀 I’m interested in products that create an impact
+- 👀 I’m interested in building products that create an impact
 - 🌱 I’m currently learning Java Backend Development
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me @reachrajatbhushan@gmail.com
